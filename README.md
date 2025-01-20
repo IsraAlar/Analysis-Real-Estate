@@ -81,18 +81,24 @@ Miguel Hidalgo  | 153
 Cuajimalpa de Morelos | 103
 Benito Juárezárez | 1,046
 ----
+
+## Visualización de los resultados:
+
+
+
 ## Herramientas utilizadas:
 
 * **Excel**: Limpieza y validación de datos.
 * **SQL**: Creación de consultas para el análisis.
 * **Power Point**: Visualización de datos.
+* **Power BI**: Creación de gráficos.
 ----
 ## Contenido del repositorio:
 
 * **Diario de proyecto**: Archivo de texto del desarrollo del proyecto.
 * **Dataset limpio**: Archivo descargado de Kaggle y preparado para su análisis.
 * **Consultas SQL**: Código SQL con las consultas para responder preguntas del proyecto.
-* **Presentación**: Archivo de Power Point con gráficos y visualizaciones de los resultados.
+* **Presentación**: Archivo de Power Point y Power BI con gráficos y visualizaciones de los resultados.
 ----
 ## Instrucciones para reproducir el análisis:
 
