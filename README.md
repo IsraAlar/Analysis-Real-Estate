@@ -85,7 +85,7 @@ Benito Juárezárez | 1,046
 ## Visualización de los resultados:
 
 
-![Visualización de Power BI](Análisis%20de%20datos/Caso%20portafolio/Caso%20bienes%20raíces/Presentación/imágen%20Power%20BI.png)
+![image_alt](https://github.com/IsraAlar/Analysis-Real-Estate/blob/main/Im%C3%A1gen_Power_BI.jpg)
 
 
 ## Herramientas utilizadas:
